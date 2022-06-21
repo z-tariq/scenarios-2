@@ -11,12 +11,10 @@ steps:
 - step4.md
 license: ""
 isPremium: true
-isNew: false
-isAvailable: false
+isNew: true
+isAvailable: true
 authors: 
 - z6
 isDraft: true
 state: draft
-environmentvars: {}
 image: ""
-points: 10
