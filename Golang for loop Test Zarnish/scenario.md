@@ -19,3 +19,4 @@ isDraft: false
 state: approved
 environmentvars: {}
 image: ""
+points: 10
