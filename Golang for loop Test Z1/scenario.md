@@ -1,4 +1,4 @@
-title: Golang for loop Test Zarnish
+title: Golang for loop Test Z1
 description: Learn how Golang loops works and how it's different from other programming
   languages.
 time: 10 minutes
