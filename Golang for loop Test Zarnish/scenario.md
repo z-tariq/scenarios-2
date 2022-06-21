@@ -18,5 +18,4 @@ authors:
 isDraft: false
 state: approved
 environmentvars: {}
-environment: ""
 image: ""
