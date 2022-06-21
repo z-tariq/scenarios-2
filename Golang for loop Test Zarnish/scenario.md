@@ -16,7 +16,7 @@ isAvailable: false
 authors: 
 - z6
 isDraft: true
-state: approved
+state: draft
 environmentvars: {}
 image: ""
 points: 10
