@@ -43,28 +43,4 @@ go run code.go
 
 To infinitely run some specified instruction without a break, we only need to remove the `break` instruction with the surrounding condition:
 
-{{copy filename='code.go'}}
-```go
-package main
-
-import "fmt"
-
-func main() {
-	k := 3
-	for {
-		fmt.Println("Continue")
-		k++
-	}
-}
-```
-{{ /copy }}
-
-Run the application using the following command:
-
-{{ execute }}
-```
-go run code.go
-```
-{{ /execute }}
-
 Next, we will discuss the key takeaways.

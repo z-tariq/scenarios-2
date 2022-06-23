@@ -1,4 +1,4 @@
-title: Golang for loop Test Z1
+title: Golang Finite for loop
 description: Learn how Golang loops works and how it's different from other programming
   languages.
 time: 10 minutes
