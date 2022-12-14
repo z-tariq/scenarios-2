@@ -1,5 +1,5 @@
 categories:
-  - Golang
+  - golang
 description: >-
   Lets learn the basics of Go
 isAvailable: true
