@@ -8,5 +8,5 @@ scenarioCount: 1
 isPremium: true
 license: Apache
 scenarios: 
-- Go Scenario 2
-title: Golang 1
+- Go Scenario 3
+title: Golang 2
