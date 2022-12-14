@@ -1,4 +1,4 @@
-title: Go Scenario 1
+title: Go Scenario 2
 description: >-
   In cryptography we will explore how to scramble the data using a complex
   encryption algorithm
